@@ -6,7 +6,7 @@ dmyrs Software is a software company aimed at providing small businesses afforda
 
 ## Contributions
 
-All current projects are closed source, and we are not taking contributions at this time.
+All current projects are closed source; we are not taking contributions at this time.
 
 Interested in working with us?
 
