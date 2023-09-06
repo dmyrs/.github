@@ -12,7 +12,7 @@ Interested in working with us?
 
 Applications can be sent to [applications@dmyrs.com](applications@dmyrs.com).
 
-# Business Inquiry
+## Business Inquiries
 
 Interested in a software solution?
 
