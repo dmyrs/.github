@@ -2,7 +2,7 @@
 
 dmyrs Software is a software company aimed at providing small businesses affordable software solutions with enterprise grade support, scale, and reliability.
 
-<img src="dmyrs%20Software-logos.jpeg" alt="My Image" width="200"/>
+![dmyrs Software](dmyrsSoftware.jpeg)
 
 ## Contributions
 
