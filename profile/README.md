@@ -1,6 +1,6 @@
 # dmyrs Software
 
-dmyrs Software is a software company aimed at providing small businesses affordable software solutions with enterprise grade support, scale, and reliability.
+dmyrs Software is a spinoff of my personal github account, used for more "official" projects and/or projects that may transfer ownership in the future.
 
 ![dmyrs Software](https://github.com/dmyrs/.github/blob/main/profile/dmyrsSoftware.jpeg)
 
